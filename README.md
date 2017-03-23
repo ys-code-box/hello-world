@@ -1,2 +1,2 @@
 # hello-world
-To Begin With
+Just Started on Git , Working on IBM Bluemix and Blockchain technologies that require Git to explore their samples ...
